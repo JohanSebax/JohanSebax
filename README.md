@@ -4,7 +4,7 @@
   <img decoding="async" src="Banner Linkedln.png" width="800"/>
 </div>
 
-### 📬 Find me at [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebasti%C3%A1n-castellanos-%C3%A1vila-87306a115/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoansebax10@gmail.com)](mailto:jhoansebax10@gmail.com)
+### Let's Connect :handshake: you can find me at [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebasti%C3%A1n-castellanos-%C3%A1vila-87306a115/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoansebax10@gmail.com)](mailto:jhoansebax10@gmail.com)
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JohanSebax&color=00cf00" alt=""/>
