@@ -4,6 +4,9 @@
   <img decoding="async" src="Banner Linkedln.png" width="800"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebasti%C3%A1n-castellanos-%C3%A1vila-87306a115/)
+
+
 <!--
 **JohanSebax/JohanSebax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
