@@ -41,7 +41,7 @@ I like working as a team and sharing my knowledge with others. I am the type of 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,discord,github,html,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,git,discord,github,html,mysql" />
   </a>
 </p>
 
