@@ -26,7 +26,7 @@ I like working as a team and sharing my knowledge with others. I am the type of 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Migration Associate at Solvo in Medellin, Colombia
+- 🔭 I’m currently working as a Migration Associate at Solvo **(https://solvoglobal.com/)** in Medellin, Colombia 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 SQL & Python
   - 🖼 Data Analyst
