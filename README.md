@@ -14,6 +14,12 @@
   <img src="https://profile-counter.glitch.me/JohanSebax/count.svg" alt="Contador de visitas" style="display: block; margin: 0 auto;" />
 </p>
 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+
+
+
+
 
 
   
