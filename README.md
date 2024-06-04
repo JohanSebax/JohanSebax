@@ -37,6 +37,15 @@ I like working as a team and sharing my knowledge with others. I am the type of 
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
 
+### ⚙️ Tools and Programming languages I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,discord,github,html,mysql,vscode" />
+  </a>
+</p>
+
+
 
 
 
