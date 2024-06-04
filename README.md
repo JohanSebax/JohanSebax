@@ -9,6 +9,7 @@
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JohanSebax&color=00cf00" alt=""/>
 
+<h3><strong>Profile Views</strong></h3>
   <p align="center">
   <img src="https://profile-counter.glitch.me/JohanSebax/count.svg" alt="Contador de visitas" style="display: block; margin: 0 auto;" />
 </p>
