@@ -6,7 +6,11 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebasti%C3%A1n-castellanos-%C3%A1vila-87306a115/)
 
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
+
+  
 <!--
 **JohanSebax/JohanSebax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
