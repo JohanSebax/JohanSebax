@@ -8,6 +8,7 @@
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JohanSebax&color=00cf00" alt=""/>
+</div>
 
 <h3><strong>Profile Views</strong></h3>
   <p align="center">
