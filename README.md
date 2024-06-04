@@ -24,6 +24,16 @@ graphics and for a friendly interface for page visitors. I know different data v
 
 I like working as a team and sharing my knowledge with others. I am the type of person who, when I face a problem, gives my all to find a solution.
 
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently working as a Migration Associate at Solvo in Medellin, Colombia
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 SQL & Python
+  - 🖼 Data Analyst
+  - 🛠 Personal Projects
+- 👯 I’m looking to finish a Boot Camp in Data Analyst and specialize in Artificial intelligence 
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies and Anime🎬
+
 
 
 
