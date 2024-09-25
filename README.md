@@ -28,6 +28,7 @@ I like working as a team and sharing my knowledge with others. I am the type of 
 - 🔭 I’m currently working as a Migration/Implementation Associate at Solvo Global **(https://solvoglobal.com/)** in Medellin, Colombia 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 SQL & Python
+  - Tableau
   - 🖼 Data Analyst
   - 🛠 Personal Projects
 - 👯 I finished a Boot Camp in Data Analyst and would like to specialize in Artificial intelligence with Python and SQL.
