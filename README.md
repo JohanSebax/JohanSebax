@@ -4,7 +4,7 @@
   <img decoding="async" src="Banner Linkedln.png" width="800"/>
 </div>
 
-### Let's Connect :handshake: you can find me at [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebasti%C3%A1n-castellanos-%C3%A1vila-87306a115/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoansebax10@gmail.com)](mailto:jhoansebax10@gmail.com)
+### Let's Connect :handshake: you can find me at [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johancastellanos-dataanalyst/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoansebax10@gmail.com)](mailto:jhoansebax10@gmail.com)
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JohanSebax&color=00cf00" alt=""/>
@@ -25,13 +25,15 @@ I like working as a team and sharing my knowledge with others. I am the type of 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Migration/Implementation Associate at Solvo Global **(https://solvoglobal.com/)** in Medellin, Colombia 
+- 🔭 I’m currently working as a Bilingual Data Analyst at B&B Holding Medellin S.A.S **(https://www.linkedin.com/company/b-b-holding-medell%C3%ADn/)** in Medellin, Colombia 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 SQL & Python
+  - Power BI and Excel
+  - Git and GitHub for collaborative work
   - Tableau
-  - 🖼 Data Analyst
+  - 🖼 Data Analysis and Data Science(Machine Learning)
   - 🛠 Personal Projects
-- 👯 I finished a Boot Camp in Data Analyst and would like to specialize in Artificial intelligence with Python and SQL.
+- 👯 I finished a Boot Camp in Data Analysis and would like to specialize in Artificial intelligence with Python and SQL.
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies and Anime🎬
 
 ### 🖥️ My DevSetup
